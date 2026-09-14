@@ -31,12 +31,15 @@ I'm Till an **IT Specialist for System Integration apprentice**, interested in i
 I build small games and prototypes to learn game design and Unity under [Half Mana Games](https://half-mana-games.itch.io/).
 
 **[ChromaFlame](https://half-mana-games.itch.io/chromaflame)**
+
 A small 2D platformer created for a Mini Jam, built around switching between two colors to interact with platforms.
 
 **[Nightforge](https://half-mana-games.itch.io/nightforge)**
+
 A nocturnal auto-attacking survivor where Souls are both your score and your currency.
 
 **Spellforge**
+
 An ongoing collection of game ideas and experiments focused on spells, elemental mechanics and interesting ability combinations.
 
 ### 🖥️ Infrastructure & Homelab
