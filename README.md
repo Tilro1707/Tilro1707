@@ -13,15 +13,12 @@ I'm Till an **IT Specialist for System Integration apprentice**, interested in i
 ## Tech
 
 **Infrastructure & DevOps**
-
 `Linux` `Docker` `Docker Compose` `Traefik` `Nginx` `GitLab` `Git`
 
 **Development**
-
 `C#` `Unity` `Python`
 
 **Currently exploring**
-
 `Self-Hosting` `Networking`
 
 ## Projects
@@ -50,7 +47,3 @@ Some things I've worked with:
 * Linux servers
 * Raspberry Pi projects
 * Home server & storage setups
-
----
-
-> I like building things to understand how they work.
