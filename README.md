@@ -95,9 +95,3 @@ I experiment with self-hosted infrastructure both at work and at home.
 * 💾 Home server & storage setups
 
 </details>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tilro1707&label=Profile%20Views&color=55C7F3&style=flat-square" alt="Profile views" />
-</p>
