@@ -59,4 +59,4 @@ Some things I've worked with:
 
 ### 💻 Code Projects
 
-[![BookBot](https://github-readme-stats.vercel.app/api/pin/?username=Tilro1707&repo=BookBot&theme=dark)](https://github.com/Tilro1707/BookBot)
+[![BookBot](https://github-readme-stats.vercel.app/api/pin/?username=Tilro1707&repo=bookbot&theme=dark)](https://github.com/Tilro1707/BookBot)
