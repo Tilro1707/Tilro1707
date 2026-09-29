@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Till 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=55C7F3&center=true&vCenter=true&width=600&lines=IT+Specialist+for+System+Integration;Homelab+%26+Self-Hosting;Game+Dev+%40+Half+Mana+Games" alt="Typing SVG" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=55C7F3&center=true&vCenter=true&width=600&lines=IT+Specialist+for+System+Integration;Homelab+%26+Self-Hosting;Game+Dev+%40+Half+Mana+Games" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -24,23 +24,23 @@ I'm an **IT Specialist for System Integration apprentice**, interested in infras
 
 **Infrastructure & DevOps**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 **Development**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)](#)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 **Currently exploring**
 
-![Self-Hosting](https://img.shields.io/badge/Self--Hosting-4B5563?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-4B5563?style=for-the-badge)
+[![Self-Hosting](https://img.shields.io/badge/Self--Hosting-4B5563?style=for-the-badge)](#)
+[![Networking](https://img.shields.io/badge/Networking-4B5563?style=for-the-badge)](#)
 
 ---
 
@@ -68,7 +68,7 @@ I build small games and prototypes to learn game design and Unity – all publis
       A tower defense game – place and upgrade crystals to defend against waves of enemies. 💎
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/WIP-Spellforge-F2C94C?style=for-the-badge&labelColor=FE5D5D" alt="Spellforge – Work in Progress" />
+      <a href="#"><img src="https://img.shields.io/badge/WIP-Spellforge-F2C94C?style=for-the-badge&labelColor=FE5D5D" alt="Spellforge – Work in Progress" /></a>
       <br><br>
       An ongoing collection of game ideas and experiments around spells, elemental mechanics and ability combinations. ✨
     </td>
