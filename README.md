@@ -33,8 +33,10 @@ I build small games and prototypes to learn game design and Unity under [Half Ma
 [![Calcium Calamity](https://img.shields.io/badge/itch.io-Calcium%20Calamity-55C7F3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A)](https://half-mana-games.itch.io/calcium-calamity)  
 A fast-paced arcade horde-survival game built for a Mini Jam. Defend a holy church by summoning a skeletal army — powered by cursed, mutated milk.
 
+
 [![Nightforge](https://img.shields.io/badge/itch.io-Nightforge-55C7F3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A)](https://half-mana-games.itch.io/nightforge)  
 A nocturnal auto-attacking survivor where Souls are both your score and your currency.
+
 
 [![CrystalTD](https://img.shields.io/badge/itch.io-CrystalTD-55C7F3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A)](https://half-mana-games.itch.io/crystaltd)  
 A tower defense game — place and upgrade crystals to defend against waves of enemies.
