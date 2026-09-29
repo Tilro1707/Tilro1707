@@ -38,6 +38,8 @@ A small 2D platformer created for a Mini Jam, built around switching between two
 
 A nocturnal auto-attacking survivor where Souls are both your score and your currency.
 
+<iframe frameborder="0" src="https://itch.io/embed/5062193?bg_color=21184A&amp;fg_color=F1ECFF&amp;link_color=55C7F3&amp;border_color=413a59" width="552" height="167"><a href="https://half-mana-games.itch.io/crystaltd">CrystalTD by Half Mana Games, Voxel</a></iframe>
+
 **Spellforge**
 
 An ongoing collection of game ideas and experiments focused on spells, elemental mechanics and interesting ability combinations.
