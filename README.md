@@ -1,46 +1,72 @@
-<!-- ===================================================================== README – Aufbau & Anleitung HTML-Kommentare wie dieser werden auf GitHub NICHT angezeigt. FARBEN (Half-Mana-Games-Palette, immer ohne # verwenden): 21184A dunkles Lila (Hintergründe) F1ECFF helles Lila (Text) 55C7F3 Cyan (Akzent) FE5D5D itch.io-Rot (Akzent / linke Badge-Seite) A993D3 Calcium Calamity | 111D4A Nightforge | D957C5 CrystalTD F2C94C Gelb für Work in Progress BADGES (shields.io) – Grundformat: https://img.shields.io/badge/LINKS-RECHTS-FARBE?style=for-the-badge&logo=LOGO&logoColor=white&labelColor=FARBE - Leerzeichen -> %20 - Bindestrich -> -- (z.B. Self--Hosting) - & -> %26 - Nur ein Text: /badge/TEXT-FARBE (ohne linke Seite) - Logo-Namen findest du auf https://simpleicons.org (kleingeschrieben) - Unbekanntes Logo? Kein Problem, der Badge wird dann einfach ohne Logo angezeigt. BOXEN (Tabellen): Alle Boxen haben feste Pixel-Breiten, damit sie gleich groß sind: 3 Spalten -> width="230" 2 Spalten -> width="360" 1 Spalte -> width="775" Boxen in derselben Zeile (<tr>) sind automatisch gleich hoch. ===================================================================== --> <!-- ============================ HEADER ============================ Wellen-Banner von capsule-render. - color=0:FARBE,100:FARBE -> Farbverlauf von links nach rechts - text= / desc= -> Titel / Untertitel (%20 = Leerzeichen) - type= -> Form: waving, wave, rect, slice, egg, shark, soft, venom - animation= -> fadeIn, scaleIn, blink, twinkling ================================================================== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21184A,100:FE5D5D&height=200&section=header&text=Hi,%20I'm%20Till%20👋&fontSize=48&fontColor=F1ECFF&animation=fadeIn&fontAlignY=38&desc=Sysadmin%20by%20day%20•%20Game%20Dev%20by%20night&descAlignY=58&descSize=18" width="100%" alt="Header" /> <!-- ========================= TYPING TEXT ========================== Animierter Tipp-Text von readme-typing-svg. - lines= -> die Zeilen, getrennt mit ; - Leerzeichen -> + - Sonderzeichen: + -> %2B | @ -> %40 | & -> %26 | # -> %23 - KEINE Emojis verwenden, die machen das SVG kaputt! - Wird Text abgeschnitten? -> width= erhöhen - Generator mit Vorschau: https://readme-typing-svg.demolab.com/demo/ ================================================================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=55C7F3&center=true&vCenter=true&width=650&lines=IT+Specialist+for+System+Integration;Running+my+own+Homelab;Docker+%2B+Traefik+Enjoyer;Making+games+%40+Half+Mana+Games;Currently+forging+spells..." alt="Typing SVG" /> </p> <!-- ========================= LINK-BADGES ========================== Neuen Link hinzufügen: eine <a>-Zeile kopieren, href und Badge anpassen. Der letzte Badge ist der Profil-Besucherzähler (komarev.com). ================================================================== --> <p align="center"> <a href="https://half-mana-games.itch.io/"><img src="https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A" alt="itch.io" /></a> <a href="https://github.com/Tilro1707"><img src="https://img.shields.io/badge/GitHub-Tilro1707-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://komarev.com/ghpvc/?username=Tilro1707&label=Profile%20Views&color=55C7F3&style=for-the-badge" alt="Profile views" /> </p> <!-- =========================== ABOUT ME =========================== Neuen Punkt hinzufügen: eine Zeile kopieren. Zwischen den Punkten steht <br><br> für den Abstand. <b>...</b> = fett ================================================================== --> <h2 align="center">🧑‍💻 About me</h2> <table align="center"> <tr> <td width="775"> 🖥️ Working with <b>Linux, Docker and server infrastructure</b><br><br> 🐳 Building and managing self-hosted services with <b>Docker Compose & Traefik</b><br><br> 🏠 Running my own <b>homelab</b><br><br> 🎮 Developing games with <b>Unity & C#</b><br><br> 🔧 Interested in automation, networking and learning how systems work </td> </tr> </table> <!-- ========================== TECH STACK ========================== 3 gleich große Boxen nebeneinander. Neue Technologie hinzufügen: eine <img>-Zeile inkl. <br> kopieren und Name, Farbe und Logo anpassen (siehe BADGES oben). Tipp: Die offizielle Markenfarbe findest du auch auf simpleicons.org. ================================================================== --> <h2 align="center">🛠️ Tech Stack</h2> <table align="center"> <tr> <!-- Box 1: Infrastructure & DevOps --> <td align="center" valign="top" width="230"> <b>Infrastructure & DevOps</b><br><br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" /><br> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" /><br> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /><br> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /><br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br> </td>
-<!-- Box 2: Development -->
-<td align="center" valign="top" width="230">
-  <b>Development</b><br><br>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" /><br>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
-</td>
+## Hi there 👋
 
-<!-- Box 3: Currently exploring -->
-<td align="center" valign="top" width="230">
-  <b>Currently exploring</b><br><br>
-  <img src="https://img.shields.io/badge/Self--Hosting-4B5563?style=for-the-badge" alt="Self-Hosting" /><br>
-  <img src="https://img.shields.io/badge/Networking-4B5563?style=for-the-badge" alt="Networking" /><br>
-</td>
-</tr> </table> <!-- ======================= GAME DEVELOPMENT ======================= Spiele-Karten, immer 2 pro Zeile (<tr>). Neues Spiel hinzufügen: 1. Einen kompletten <td>...</td>-Block kopieren 2. Name, Emoji, itch.io-Link, Badge-Farbe und Texte anpassen 3. Sind in einer <tr> schon 2 Karten -> neue <tr>...</tr> anfangen 4. Ungerade Anzahl? Eine leere Karte einfügen, damit alles gleich bleibt: <td width="360"></td> WIP-Spiel veröffentlicht? Den gelben Status-Badge durch einen "Play on itch.io"-Badge ersetzen (von einer anderen Karte kopieren). ================================================================== --> <h2 align="center">🎮 Game Development</h2> <p align="center"> I build small games and prototypes to learn game design and Unity – all published under<br><br> <a href="https://half-mana-games.itch.io/"><img src="https://img.shields.io/badge/-Half%20Mana%20Games-FE5D5D?style=for-the-badge&logo=itch.io&logoColor=white" alt="Half Mana Games" /></a> </p> <table align="center"> <tr> <!-- Karte: Calcium Calamity --> <td align="center" valign="top" width="360"> <h3>💀 Calcium Calamity</h3> <a href="https://half-mana-games.itch.io/calcium-calamity"><img src="https://img.shields.io/badge/▶%20Play%20on-itch.io-A993D3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D" alt="Play Calcium Calamity" /></a> <br><br> Arcade horde-survival made in one weekend. Defend a holy church with a skeletal army – powered by <b>cursed, mutated milk</b>. 🥛 <br><br> <sub>Mini Jam #55 • Theme: Necromancy • Special Item: Milk</sub> </td>
-<!-- Karte: Nightforge -->
-<td align="center" valign="top" width="360">
-  <h3>🌙 Nightforge</h3>
-  <a href="https://half-mana-games.itch.io/nightforge"><img src="https://img.shields.io/badge/▶%20Play%20on-itch.io-111D4A?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D" alt="Play Nightforge" /></a>
-  <br><br>
-  A nocturnal auto-attacking survivor where <b>Souls</b> are both your score and your currency.
-  <br><br>
-  <sub>Genre: Survivor</sub>
-</td>
-</tr> <tr> <!-- Karte: CrystalTD --> <td align="center" valign="top" width="360"> <h3>💎 CrystalTD</h3> <a href="https://half-mana-games.itch.io/crystaltd"><img src="https://img.shields.io/badge/▶%20Play%20on-itch.io-D957C5?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D" alt="Play CrystalTD" /></a> <br><br> A tower defense game – place and upgrade crystals to defend against waves of enemies. <br><br> <sub>Genre: Tower Defense</sub> </td>
-<!-- Karte: Spellforge (noch nicht veröffentlicht -> gelber WIP-Badge) -->
-<td align="center" valign="top" width="360">
-  <h3>✨ Spellforge</h3>
-  <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-F2C94C?style=for-the-badge&labelColor=FE5D5D" alt="Work in Progress" />
-  <br><br>
-  An ongoing collection of game ideas and experiments around <b>spells, elemental mechanics</b> and interesting ability combinations.
-  <br><br>
-  <sub>Status: Work in Progress</sub>
-</td>
-</tr> </table> <!-- ======================== CODE PROJECTS ========================= Gleicher Aufbau wie die Spiele-Karten (2 pro Zeile). Neues Repo hinzufügen: - Die rechte "Coming soon"-Karte durch eine Kopie der BookBot-Karte ersetzen - Repo-Name im Link (href) und im Badge anpassen - Badge-Farbe am besten passend zur Sprache wählen (Python 3776AB | C# 512BD4 | Shell 4EAA25 | Docker 2496ED) Repo-Cards (github-readme-stats) funktionieren gerade nicht, weil der öffentliche Dienst pausiert ist. Falls er wieder läuft, sieht eine Karte so aus: <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tilro1707&repo=BookBot&theme=dark" /> ================================================================== --> <h2 align="center">💻 Code Projects</h2> <table align="center"> <tr> <!-- Karte: BookBot --> <td align="center" valign="top" width="360"> <h3>📚 BookBot</h3> <a href="https://github.com/Tilro1707/BookBot"><img src="https://img.shields.io/badge/View-Repo-3776AB?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="BookBot" /></a> <br><br> A small Python tool that analyzes books and tells you how long they are. <br><br> <sub>Language: Python</sub> </td>
-<!-- Platzhalter-Karte: ersetzen, sobald ein neues Repo online ist -->
-<td align="center" valign="top" width="360">
-  <h3>🚧 More coming soon</h3>
-  <img src="https://img.shields.io/badge/Status-Pushing%20soon-F2C94C?style=for-the-badge&labelColor=181717" alt="Coming soon" />
-  <br><br>
-  More projects from my homelab and game dev experiments are on their way.
-  <br><br>
-  <sub>Stay tuned</sub>
-</td>
-</tr> </table> <!-- ===================== INFRASTRUCTURE & HOMELAB ================= Neuer Dienst / neues Projekt: eine <img>-Zeile kopieren und anpassen. Beispiele für passende Logos: proxmox, pihole, nextcloud, jellyfin, homeassistant, wireguard, portainer, grafana ================================================================== --> <h2 align="center">🖥️ Infrastructure & Homelab</h2> <p align="center"> I experiment with self-hosted infrastructure both at work and at home.<br><br> <img src="https://img.shields.io/badge/Dockerized%20Apps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white" alt="Immich" /> <img src="https://img.shields.io/badge/Linux%20Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Home%20Server%20%26%20Storage-4B5563?style=for-the-badge" alt="Home Server" /> </p> <!-- ========================= GITHUB STATS ========================= Commit-Streak von streak-stats.demolab.com. Farben anpassen über: background, ring, fire, currStreakNum, currStreakLabel, sideNums, sideLabels, dates Wird erst richtig schön, wenn du regelmäßig pushst. ================================================================== --> <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://streak-stats.demolab.com?user=Tilro1707&theme=dark&hide_border=true&background=21184A&ring=FE5D5D&fire=FE5D5D&currStreakLabel=55C7F3&sideLabels=F1ECFF&currStreakNum=F1ECFF&sideNums=F1ECFF&dates=A993D3" alt="GitHub Streak" /> </p> <!-- ============================ FOOTER ============================ Gleiche Welle wie oben, nur umgedreht (section=footer). Farben hier andersherum als im Header, damit es sich "schließt". ================================================================== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE5D5D,100:21184A&height=120&section=footer" width="100%" alt="Footer" />
+I'm **Till**, an **IT Specialist for System Integration apprentice**, interested in infrastructure, self-hosting and game development.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Tilro1707-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tilro1707)
+[![itch.io](https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=flat-square&logo=itch.io&logoColor=white)](https://half-mana-games.itch.io/)
+
+## About me
+
+* 🖥️ Working with **Linux, Docker and server infrastructure**
+* 🐳 Building and managing self-hosted services with **Docker Compose & Traefik**
+* 🏠 Running my own **homelab**
+* 🎮 Developing games with **Unity & C#**
+* 🔧 Interested in automation, networking and learning how systems work
+
+## Tech
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Development**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Currently exploring**
+
+![Self-Hosting](https://img.shields.io/badge/Self--Hosting-4B5563?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-4B5563?style=flat-square)
+
+## Projects
+
+### 🎮 Game Development
+
+I build small games and prototypes to learn game design and Unity. You can find all of them on itch.io:
+
+[![Half Mana Games](https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A)](https://half-mana-games.itch.io/)
+
+[![Calcium Calamity](https://img.shields.io/badge/itch.io-Calcium%20Calamity-a993d3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/calcium-calamity)  
+A fast-paced arcade horde-survival game built for Mini Jam #55. Defend a holy church by summoning a skeletal army – powered by cursed, mutated milk.
+
+[![Nightforge](https://img.shields.io/badge/itch.io-Nightforge-111D4A?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/nightforge)  
+A nocturnal auto-attacking survivor where Souls are both your score and your currency.
+
+[![CrystalTD](https://img.shields.io/badge/itch.io-CrystalTD-D957C5?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/crystaltd)  
+A tower defense game – place and upgrade crystals to defend against waves of enemies.
+
+![Spellforge](https://img.shields.io/badge/WIP-Spellforge-F2C94C?style=for-the-badge&labelColor=FE5D5D)  
+An ongoing collection of game ideas and experiments focused on spells, elemental mechanics and interesting ability combinations.
+
+### 💻 Code Projects
+
+[![BookBot](https://img.shields.io/badge/GitHub-BookBot-3776AB?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Tilro1707/BookBot)  
+A small Python tool that analyzes books and tells you how long they are.
+
+### 🖥️ Infrastructure & Homelab
+
+I experiment with self-hosted infrastructure both at work and at home.
+
+* 🐳 Dockerized web applications
+* 📸 Immich
+* 🐧 Linux servers
+* 🍓 Raspberry Pi projects
+* 💾 Home server & storage setups
