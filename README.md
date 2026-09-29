@@ -58,5 +58,3 @@ Some things I've worked with:
 * Home server & storage setups
 
 ### 💻 Code Projects
-
-![GitHub Stats](https://ghstats.dev/api/card?username=Tilro1707)
