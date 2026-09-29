@@ -1,11 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Till 👋</h1>
 
-I'm **Till**, an **IT Specialist for System Integration apprentice**, interested in infrastructure, self-hosting and game development.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=55C7F3&center=true&vCenter=true&width=600&lines=IT+Specialist+for+System+Integration;Homelab+%26+Self-Hosting;Game+Dev+%40+Half+Mana+Games" alt="Typing SVG" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tilro1707-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tilro1707)
-[![itch.io](https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=flat-square&logo=itch.io&logoColor=white)](https://half-mana-games.itch.io/)
+<p align="center">
+  <a href="https://half-mana-games.itch.io/"><img src="https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A" alt="itch.io" /></a>
+  <a href="https://github.com/Tilro1707"><img src="https://img.shields.io/badge/GitHub-Tilro1707-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## About me
+---
+
+## 🧑‍💻 About me
+
+I'm an **IT Specialist for System Integration apprentice**, interested in infrastructure, self-hosting and game development.
 
 * 🖥️ Working with **Linux, Docker and server infrastructure**
 * 🐳 Building and managing self-hosted services with **Docker Compose & Traefik**
@@ -13,60 +21,85 @@ I'm **Till**, an **IT Specialist for System Integration apprentice**, interested
 * 🎮 Developing games with **Unity & C#**
 * 🔧 Interested in automation, networking and learning how systems work
 
-## Tech
+## 🛠️ Tech Stack
 
 **Infrastructure & DevOps**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Development**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Currently exploring**
 
-![Self-Hosting](https://img.shields.io/badge/Self--Hosting-4B5563?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-4B5563?style=flat-square)
+![Self-Hosting](https://img.shields.io/badge/Self--Hosting-4B5563?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-4B5563?style=for-the-badge)
 
-## Projects
+---
 
-### 🎮 Game Development
+## 🎮 Game Development
 
-I build small games and prototypes to learn game design and Unity. You can find all of them on itch.io:
+I build small games and prototypes to learn game design and Unity – all published under **Half Mana Games**.
 
-[![Half Mana Games](https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A)](https://half-mana-games.itch.io/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://half-mana-games.itch.io/calcium-calamity"><img src="https://img.shields.io/badge/itch.io-Calcium%20Calamity-a993d3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D" alt="Calcium Calamity" /></a>
+      <br><br>
+      Arcade horde-survival made for <b>Mini Jam #55</b>. Defend a holy church with a skeletal army – powered by cursed, mutated milk. 🥛💀
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://half-mana-games.itch.io/nightforge"><img src="https://img.shields.io/badge/itch.io-Nightforge-111D4A?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D" alt="Nightforge" /></a>
+      <br><br>
+      A nocturnal auto-attacking survivor where Souls are both your score and your currency. 🌙
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://half-mana-games.itch.io/crystaltd"><img src="https://img.shields.io/badge/itch.io-CrystalTD-D957C5?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D" alt="CrystalTD" /></a>
+      <br><br>
+      A tower defense game – place and upgrade crystals to defend against waves of enemies. 💎
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/WIP-Spellforge-F2C94C?style=for-the-badge&labelColor=FE5D5D" alt="Spellforge – Work in Progress" />
+      <br><br>
+      An ongoing collection of game ideas and experiments around spells, elemental mechanics and ability combinations. ✨
+    </td>
+  </tr>
+</table>
 
-[![Calcium Calamity](https://img.shields.io/badge/itch.io-Calcium%20Calamity-a993d3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/calcium-calamity)  
-A fast-paced arcade horde-survival game built for Mini Jam #55. Defend a holy church by summoning a skeletal army – powered by cursed, mutated milk.
-
-[![Nightforge](https://img.shields.io/badge/itch.io-Nightforge-111D4A?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/nightforge)  
-A nocturnal auto-attacking survivor where Souls are both your score and your currency.
-
-[![CrystalTD](https://img.shields.io/badge/itch.io-CrystalTD-D957C5?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/crystaltd)  
-A tower defense game – place and upgrade crystals to defend against waves of enemies.
-
-![Spellforge](https://img.shields.io/badge/WIP-Spellforge-F2C94C?style=for-the-badge&labelColor=FE5D5D)  
-An ongoing collection of game ideas and experiments focused on spells, elemental mechanics and interesting ability combinations.
-
-### 💻 Code Projects
+## 💻 Code Projects
 
 [![BookBot](https://img.shields.io/badge/GitHub-BookBot-3776AB?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Tilro1707/BookBot)  
-A small Python tool that analyzes books and tells you how long they are.
+A small Python tool that analyzes books and tells you how long they are. 📚
 
-### 🖥️ Infrastructure & Homelab
+## 🖥️ Infrastructure & Homelab
 
 I experiment with self-hosted infrastructure both at work and at home.
+
+<details>
+  <summary><b>🏠 What I've worked with</b></summary>
+  <br>
 
 * 🐳 Dockerized web applications
 * 📸 Immich
 * 🐧 Linux servers
 * 🍓 Raspberry Pi projects
 * 💾 Home server & storage setups
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tilro1707&label=Profile%20Views&color=55C7F3&style=flat-square" alt="Profile views" />
+</p>
