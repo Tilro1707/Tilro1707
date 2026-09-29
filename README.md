@@ -29,6 +29,7 @@ I'm Till an **IT Specialist for System Integration apprentice**, interested in i
 ### 🎮 Game Development
 
 I build small games and prototypes to learn game design and Unity under 
+
 [![Half Mana Games](https://img.shields.io/badge/itch.io-Half%20Mana%20Games-55C7F3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/).
 
 [![Calcium Calamity](https://img.shields.io/badge/itch.io-Calcium%20Calamity-a993d3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/calcium-calamity)  
