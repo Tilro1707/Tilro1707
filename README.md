@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://half-mana-games.itch.io/"><img src="https://img.shields.io/badge/itch.io-Half%20Mana%20Games-FE5D5D?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A" alt="itch.io" /></a>
-  <a href="https://github.com/Tilro1707"><img src="https://img.shields.io/badge/GitHub-Tilro1707-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -27,7 +26,6 @@ I'm an **IT Specialist for System Integration apprentice**, interested in infras
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -35,7 +33,7 @@ I'm an **IT Specialist for System Integration apprentice**, interested in infras
 
 **Development**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
