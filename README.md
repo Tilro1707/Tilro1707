@@ -45,6 +45,8 @@ A nocturnal auto-attacking survivor where Souls are both your score and your cur
 [![CrystalTD](https://img.shields.io/badge/itch.io-CrystalTD-D957C5?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FE5D5D)](https://half-mana-games.itch.io/crystaltd)  
 A tower defense game — place and upgrade crystals to defend against waves of enemies.
 
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tilro1707&repo=REPO-NAME&theme=dark)](https://github.com/Tilro1707/REPO-NAME)
+
 **Spellforge**
 
 An ongoing collection of game ideas and experiments focused on spells, elemental mechanics and interesting ability combinations.
