@@ -30,7 +30,7 @@ I'm Till an **IT Specialist for System Integration apprentice**, interested in i
 
 I build small games and prototypes to learn game design and Unity under [Half Mana Games](https://half-mana-games.itch.io/).
 
-[![Calcium Calamity](https://img.shields.io/badge/itch.io-Calcium%20Calamity-55C7F3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=21184A)](https://half-mana-games.itch.io/calcium-calamity)  
+[![Calcium Calamity](https://img.shields.io/badge/itch.io-Calcium%20Calamity-55C7F3?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=a993d3)](https://half-mana-games.itch.io/calcium-calamity)  
 A fast-paced arcade horde-survival game built for a Mini Jam. Defend a holy church by summoning a skeletal army — powered by cursed, mutated milk.
 
 
